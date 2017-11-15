@@ -1,0 +1,3 @@
+# CircleciGithubSample1
+
+CricleCIとGitHubの連携を試すためのサンプルプロジェクト
